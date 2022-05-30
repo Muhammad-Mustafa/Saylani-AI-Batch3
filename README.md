@@ -21,4 +21,6 @@ Study Material:
 Python is a high-level, interpreted, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a "batteries included" language due to its comprehensive standard library. The reason why we used Python is becuase the pyhton is versatile & Interpretor language & is widely used ofr Data Science Purpose. Aprat from that the community of Python is comapratively large enough that help begineers to get started with it.
 
 Study Material:
+- [Anaconda Installation](https://github.com/aiwithqasim/PIAIC-Artificial-Intelligence/blob/master/Q1/BOOKS/Anaconda%20Installation%20Guide.pdf)
+- [Anaconda Add to path](https://github.com/aiwithqasim/PIAIC-Artificial-Intelligence/blob/master/Q1/BOOKS/Add-Anaconda-to-Path.pdf)
 - [Class 1 Practical Introduction to Python](https://github.com/aiwithqasim/Python-Programmer/tree/main/Day1%20python_introduction)
